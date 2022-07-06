@@ -1,0 +1,144 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #fff;
+}
+
+body .req-body {
+    background: url("https://i.ibb.co/XFBbLyB/abidjan-ivory-coast-digital-nomads-1024x540.png");
+    background-size: cover;
+    background-position-y: center;
+}
+
+body .req-body header {
+    padding: 20px 0;
+}
+
+body .req-body header .col img {
+    width: 13em;
+}
+
+body .req-body header .contact-header {
+    padding: 12px 0;
+}
+
+body .req-body header .contact-header .btn-contact {
+    float: right;
+}
+
+body .req-body .main .step4 {
+    background: #fff;
+    padding: 40px;
+    margin: 40px 0;
+    border-radius: 5px;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+}
+
+body .req-body .main .step4 .formTitle {
+    text-align: center;
+    margin: 0 0 40px;
+    line-height: 33px;
+    font-weight: 700;
+}
+
+body .req-body .main .step4 .item {
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 40px;
+    text-align: center;
+    position: relative;
+}
+
+body .req-body .main .step4 .item .slider .step4 .item label {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto 5px;
+    display: block;
+    text-align: left;
+}
+
+body .req-body .main .step4 .item .form-control {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.375rem;
+    -webkit-transition: border-color .15s ease-in-out, -webkit-box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out, -webkit-box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out, -webkit-box-shadow .15s ease-in-out;
+}
+
+body .req-body .main .step4 .item .error-citizen {
+    color: red;
+    font-weight: 400;
+    font-size: 16px;
+    display: none;
+}
+
+body .req-body .main .step4 .item p {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto 5px;
+    display: block;
+}
+
+body .req-body .main .step4 .item .checkbox-item {
+    display: inline-block;
+    width: 135px;
+}
+
+body .req-body .main .step4 .item .checkbox-item input[type=checkbox] {
+    display: none;
+}
+
+body .req-body .main .step4 .item .checkbox-item input+label {
+    display: inline-block;
+    border: 2px solid rgb(75 110 168);
+    padding: 20px;
+    border-radius: 5px;
+    position: relative;
+    cursor: pointer;
+    width: 100%;
+    height: 136px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body .req-body .main .step4 .item .checkbox-item label svg {
+    width: 52px;
+    margin-bottom: 8px;
+}
+
+body .req-body .main .step4 .item .checkbox-item .reason2 {
+    position: relative;
+    bottom: 6px;
+}
+
+body .req-body .main .step4 .item .checkbox-item .reason3 {
+    position: relative;
+    bottom: 6px;
+}
+
+body .req-body .main .step4 .item .checkbox-item input:checked+label {
+    border-color: #fff;
+    background: #4367a1;
+    color: #fff;
+    fill: #fff;
+    border: 2px solid #42659d;
+}
+
+/*# sourceMappingURL=style.css.map */
